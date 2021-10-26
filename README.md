@@ -8,3 +8,8 @@ Expression(s) are read from an input file and the results are evaluated and outp
    
    
 Project assumes all operands are integers. Division uses integer division (will not return decimals). Will return an error instead of crashing upon an invalid operator/divide-by-zero error.
+
+# Members
+### Luke Hunt
+### Steven Shackelford
+### Chris Anderson
